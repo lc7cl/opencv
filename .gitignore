@@ -1,4 +1,5 @@
 # git ignore file
-Debug\
-Release\
+Debug/
+Release/
 *.obj
+*.log
